@@ -9,6 +9,3 @@ We have four ongoing software projects at various stages of development:
 4. ![DOTE](https://img.shields.io/badge/DOTE-yellow) (Distributed Open Transcription Environment) ![Stage](https://img.shields.io/badge/stage-2-red) ![Version](https://img.shields.io/badge/state-alpha-orange) ![Code](https://img.shields.io/badge/code-beta--testing-green) ![Platform](https://img.shields.io/badge/platform-windows|macos|linux-lightgrey)
 
 We are always interested in ideas and suggestions for tools and features that will support the Big Video workflow of qualitative video analysis. You may have seen a demo of one of our tools in beta, read one of our papers, or you may have strong feelings about some of the software tools currently available for transcription and qualitative analysis (eg. TRANSANA, ELAN, CLAN, ANVIL, etc). If you would like to share with us, then add them as an issue here in this repository (click in the menu above). You will have to create an account with GitHub to do so. Describe your suggestion or request in as much detail as you wish. Include sketches or images if you wish. You can respond to other issues and add emojis to indicate your assessment and/or support. 
-
-
-![AVA360VR](https://img.shields.io/badge/AVA360VR-green)
