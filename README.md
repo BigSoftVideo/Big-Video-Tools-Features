@@ -9,7 +9,7 @@ We have several ongoing software projects at various stages of development:
     - *Collaborate, Annotate, Visualise, Analyse 360 video in VR* multi-user for live data sessions
 3. ![SQUIVE](https://img.shields.io/badge/SQUIVE-black) ![Stage](https://img.shields.io/badge/stage-2-red) ![Version](https://img.shields.io/badge/state-alpha-orange) ![Code](https://img.shields.io/badge/code-refactor-green) ![Platform](https://img.shields.io/badge/platform-windows-lightgrey)
     - *Staging QUalitative Immersive Virtualisation Engine*
-4. ![DOTE](https://img.shields.io/badge/DOTE-yellow) ![Stage](https://img.shields.io/badge/stage-6-red) ![Version](https://img.shields.io/badge/state-beta-orange) ![Code](https://img.shields.io/badge/code-beta--testing-green) ![Platform](https://img.shields.io/badge/platform-windows|macos|linux-lightgrey)
+4. ![DOTE](https://img.shields.io/badge/DOTE-yellow) ![Stage](https://img.shields.io/badge/stage-6-red) ![Version](https://img.shields.io/badge/state-RC3-orange) ![Code](https://img.shields.io/badge/code-beta--testing-green) ![Platform](https://img.shields.io/badge/platform-windows|macos|linux-lightgrey)
     - *Distributed Open Transcription Environment*
 5. ![BreachingVR](https://img.shields.io/badge/BreachingVR-blue) ![Stage](https://img.shields.io/badge/stage-1-red) ![Version](https://img.shields.io/badge/state-release-orange) ![Code](https://img.shields.io/badge/code-public--release-green) ![Platform](https://img.shields.io/badge/platform-windows-lightgrey)
     - *Simple demo of inverting lenses tutorial exercise in VR*
