@@ -1,7 +1,7 @@
 # Big-Video-Tools-Features
 This repository is a collection point for ideas, wishes and suggestions for tools and features to enhance the Big Video workflow for qualitative video analysis.
 We use our BigSoftVideo space in GitHub to develop software tools to support Big Video. Most of the coding we do is private until a robust beta is released publicly.
-The software development team is led by Paul McIlvenny and Jacob Davidsen. Programmers who have worked on BigSoftVideo projects include Nicklas Haagh Christensen, Stefan Tanderup, Andreas Hejndorf and Artúr Barnabas Kovács.
+The software development team is led by Paul McIlvenny and Jacob Davidsen. Programmers who have worked on BigSoftVideo projects include Nicklas Haagh Christensen, Stefan Tanderup, Andreas Hejndorf, Artúr Barnabas Kovács, Alexander Stein and Jonas Noermark.
 We have several ongoing software projects at various stages of development:
 1. ![AVA360VR](https://img.shields.io/badge/AVA360VR-green) ![Stage](https://img.shields.io/badge/stage-6-red) ![Version](https://img.shields.io/badge/state-public--release--3.0.0-orange) ![Code](https://img.shields.io/badge/code-private-green) ![Platform](https://img.shields.io/badge/platform-windows-lightgrey)
     - *Annotate, Visualise, Analyse 360 video in VR* for immersive qualitative analytics
