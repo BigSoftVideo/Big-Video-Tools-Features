@@ -12,9 +12,9 @@ We have several ongoing software projects at various stages of development:
     - *Collaborate, Annotate, Visualise, Analyse 360 video in VR* multi-user for live data sessions
 3. ![SQUIVE](https://img.shields.io/badge/SQUIVE-black) ![Stage](https://img.shields.io/badge/stage-2-red) ![Version](https://img.shields.io/badge/state-alpha-orange) ![Code](https://img.shields.io/badge/code-refactor-green) ![Platform](https://img.shields.io/badge/platform-windows-lightgrey)
     - *Staging QUalitative Immersive Virtualisation Engine*
-4. ![DOTE](https://img.shields.io/badge/DOTE-yellow) ![Version](https://img.shields.io/badge/state-public--release--1.0.0-orange) ![Code](https://img.shields.io/badge/code-beta--testing-green) ![Platform](https://img.shields.io/badge/platform-windows|macos-lightgrey)
+4. ![DOTE](https://img.shields.io/badge/DOTE-yellow) ![Version](https://img.shields.io/badge/state-public--release--1.0.0-orange) ![Code](https://img.shields.io/badge/code-private-green) ![Platform](https://img.shields.io/badge/platform-windows|macos-lightgrey)
     - *Distributed Open Transcription Environment*
-5. ![BreachingVR](https://img.shields.io/badge/BreachingVR-blue) ![Stage](https://img.shields.io/badge/stage-1-red) ![Version](https://img.shields.io/badge/state-release-orange) ![Code](https://img.shields.io/badge/code-public--release-green) ![Platform](https://img.shields.io/badge/platform-windows-lightgrey)
+5. ![BreachingVR](https://img.shields.io/badge/BreachingVR-blue) ![Version](https://img.shields.io/badge/state-public--release--1.0.0-orange) ![Code](https://img.shields.io/badge/code-open--source-green) ![Platform](https://img.shields.io/badge/platform-windows-lightgrey)
     - *Simple demo of inverting lenses tutorial exercise in VR*
 6. ![360mash](https://img.shields.io/badge/360mash-red) ![Stage](https://img.shields.io/badge/stage-2-red) ![Version](https://img.shields.io/badge/state-alpha-orange) ![Code](https://img.shields.io/badge/code-refactor-green) ![Platform](https://img.shields.io/badge/platform-windows|macos|linux-lightgrey)
     - *Software tool to extract and render video from 360 and 2D video to anonoymise persons and objects*
