@@ -6,7 +6,7 @@ We use our @BigSoftVideo space on GitHub to develop software tools to support Bi
 The software development team is led by Paul McIlvenny and Jacob Davidsen. Programmers who have worked on BigSoftVideo projects include Nicklas Haagh Christensen, Stefan Tanderup, Andreas Hejndorf, Artúr Barnabas Kovács, Alexander Stein and Jonas Noermark.
 
 We have several software projects at various stages of development and release:
-1. ![AVA360VR](https://img.shields.io/badge/AVA360VR-green) ![Version](https://img.shields.io/badge/state-public--release--3.0.1-orange) ![Code](https://img.shields.io/badge/code-private-green) ![Platform](https://img.shields.io/badge/platform-windows-lightgrey)
+1. ![AVA360VR](https://img.shields.io/badge/AVA360VR-green) ![Version](https://img.shields.io/badge/state-public--release--3.1.0-orange) ![Code](https://img.shields.io/badge/code-private-green) ![Platform](https://img.shields.io/badge/platform-windows-lightgrey)
     - [*AVA360VR: Annotate, Visualise, Analyse 360 video in VR* for immersive qualitative analytics](https://github.com/BigSoftVideo/AVA360VR/releases)
 2. ![CAVA360VR](https://img.shields.io/badge/CAVA360VR-purple) ![Stage](https://img.shields.io/badge/stage-3-red) ![Version](https://img.shields.io/badge/state-working-orange) ![Code](https://img.shields.io/badge/code-beta--testing-green) ![Platform](https://img.shields.io/badge/platform-windows-lightgrey)
     - *CAVA360VR: Collaborate, Annotate, Visualise, Analyse 360 video in VR* multi-user for live data sessions
